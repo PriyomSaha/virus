@@ -1,5 +1,5 @@
 # virus
-It delets the data of text file and re writes something
+It deleats the data of text file and re writes something
 This is a Python code v3 and if python3 is installed in your computer then just double click the .py file 
 
 No ill-legal work would be entertained
